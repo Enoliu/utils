@@ -1,10 +1,10 @@
 <?php
 
-namespace Enoliu\Utils\Contracts\Contracts;
+namespace Enoliu\Utils\Contracts;
 
 use Closure;
-use Enoliu\Utils\Contracts\Collection;
-use Enoliu\Utils\Contracts\Str;
+use Enoliu\Utils\Collection;
+use Enoliu\Utils\Str;
 use Enoliu\Utils\Traits\Macroable;
 use Enoliu\Utils\Traits\Tappable;
 use JsonSerializable;

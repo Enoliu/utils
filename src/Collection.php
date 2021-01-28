@@ -5,6 +5,7 @@ namespace Enoliu\Utils;
 use ArrayAccess;
 use ArrayIterator;
 use Enoliu\Utils\Contracts\Enumerable;
+use Enoliu\Utils\Contracts\Stringable;
 use Enoliu\Utils\Traits\EnumeratesValues;
 use Enoliu\Utils\Traits\Macroable;
 use stdClass;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Enoliu\Utils\Contracts\Contracts;
+namespace Enoliu\Utils\Contracts;
 
 interface Arrayable
 {

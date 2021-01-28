@@ -4,8 +4,6 @@ namespace Enoliu\Utils\Contracts;
 
 use Countable;
 use Enoliu\Utils\Collection;
-use Enoliu\Utils\Contracts\Contracts\Arrayable;
-use Enoliu\Utils\Contracts\Contracts\Jsonable;
 use IteratorAggregate;
 use JsonSerializable;
 

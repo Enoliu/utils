@@ -2,9 +2,9 @@
 
 namespace Enoliu\Utils;
 
-use Enoliu\Utils\Contracts\Contracts\Stringable;
+use Enoliu\Utils\Contracts\Stringable;
 use Enoliu\Utils\Traits\Macroable;
-use Enoliu\Utils\Contracts\Supports\ASCII;
+use Enoliu\Utils\Supports\ASCII;
 
 class Str
 {

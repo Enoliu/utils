@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Enoliu\Utils\Contracts\Supports;
+namespace Enoliu\Utils\Supports;
 
 /**
  * @psalm-immutable

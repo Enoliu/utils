@@ -1,6 +1,6 @@
 <?php
 
-namespace Enoliu\Utils\Contracts\Traits;
+namespace Enoliu\Utils\Traits;
 
 trait Tappable
 {
